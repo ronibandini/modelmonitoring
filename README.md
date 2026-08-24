@@ -115,8 +115,6 @@ Official background:
 
 👉 **[Google Cloud — Introduction to Model Monitoring](https://docs.cloud.google.com/gemini-enterprise-agent-platform/machine-learning/model-monitoring/overview)**
 
-👉 **[Azure Machine Learning — Model Monitoring](https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-monitoring)**
-
 👉 **[AWS Machine Learning Lens — Monitoring](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/monitoring.html)**
 
 ---
@@ -588,14 +586,6 @@ Prediction
     vs.
 Actual label
 ```
-
-Google, Azure, and AWS all document monitoring systems based on comparison between production and reference distributions.
-
-👉 **[Google Cloud Model Monitoring](https://docs.cloud.google.com/gemini-enterprise-agent-platform/machine-learning/model-monitoring/overview)**
-
-👉 **[Azure ML Model Monitoring](https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-monitoring)**
-
-👉 **[Amazon SageMaker Model Monitor](https://docs.aws.amazon.com/sagemaker/latest/dg/model-monitor.html)**
 
 ---
 
